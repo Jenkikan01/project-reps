@@ -1,0 +1,5 @@
+2024-01-15 03:22:01 - ALERT - Failed login from 192.168.1.105
+2024-01-15 03:22:15 - ALERT - Failed login from 192.168.1.105
+2024-01-15 03:22:45 - ALERT - Failed login from 192.168.1.105
+2024-01-15 03:23:02 - WARN  - Port scan detected on 10.0.0.5
+2024-01-15 03:24:18 - INFO  - Firewall rule updated by admin
